@@ -35,3 +35,19 @@ h1, h2{
     padding: 10px;
     text-align: center;
 }
+
+/* Estilo para telas médias (tablets) */
+@media (max-width: 768px) {
+    body {
+        font-size: 16px;
+        background-color: lightblue;
+    }
+}
+
+/* Estilo para telas pequenas (celulares) */
+@media (max-width: 480px) {
+    body {
+        font-size: 14px;
+        background-color: lightpink;
+    }
+}
