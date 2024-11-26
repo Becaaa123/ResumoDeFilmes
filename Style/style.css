@@ -40,7 +40,7 @@ h1, h2{
 @media (max-width: 768px) {
     body {
         font-size: 16px;
-        background-color: lightblue;
+        background-color: #0b0144;
     }
 }
 
@@ -48,6 +48,6 @@ h1, h2{
 @media (max-width: 480px) {
     body {
         font-size: 14px;
-        background-color: lightpink;
+        background-color: #0b0144;
     }
 }
